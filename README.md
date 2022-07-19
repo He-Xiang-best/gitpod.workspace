@@ -1,2 +1,2 @@
-# gitpod.workspace
-gitpod.workspace
+# 工作空间
+code workspace
